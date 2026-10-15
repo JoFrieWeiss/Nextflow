@@ -1,0 +1,15 @@
+dbID,database,taxa,path,memory,deduplication,n_files,include
+afv,RefSeq,archaea-fungi-viral,/path/to/afv,150.GB,n,1,y
+bac,RefSeq,bacteria,/path/to/bac??,150.GB,n,40,y
+invert,RefSeq,invertebrates,/path/to/invert??,220.GB,n,3,y
+pppm,RefSeq,protozoa-plants-plastids-mitochondria,/path/to/pppm,150.GB,n,5,y
+vm,RefSeq,vertebrate_mammalian,/path/to/vert_mam??,150.GB,n,18,y
+vo,RefSeq,vertebrate_other,/path/to/vert_other??,150.GB,n,9,y
+nt21,nt21,mixed,/path/to/nt21??,150.GB,y,40,y
+phylonorway,phylonorway,mixed,/path/to/PhylonorwayContigs,150.GB,n,10,y
+selected_plants_mito,custom,plant mitochondria,/path/to/selected_plants_mito,150.GB,n,1,y
+selected_plants,custom,plant chloroplasts,/path/to/selected_plants,150.GB,n,1,y
+selected_mammals,custom,mammals,/path/to/selected_mammals,150.GB,n,10,y
+cpStefano,custom,chloroplasts,/path/to/chloroplast_stefano,150.GB,n,1,y
+ancient_mammals,custom,ancient mammals,/path/to/ancient_mammals,150.GB,n,1,y
+imgvr,IMGVR,viruses,/path/to/imgvr,150.GB,n,5,y

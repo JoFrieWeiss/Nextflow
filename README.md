@@ -176,3 +176,6 @@ A Nextflow run can fail for several reasons. Here is a short list of the most co
 | `140` | Job exceeded the "wall clock" time limit. | Increase the requested time: adjust `time = ` in the Nextflow file for the failed process. |
 | `143` | Something killed your process with `SIGTERM`. | Start the run again. |
 | `1` | Failed, but the reason is unclear. | Try to start the run again. |# Nextflow
+
+## Author of Repository
+Christiane Boeckel & Josefine Friederike Weiß
